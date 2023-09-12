@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetQR" targetNamespace="http://tempuri.org/DataSetQR.xsd" xmlns:mstns="http://tempuri.org/DataSetQR.xsd" xmlns="http://tempuri.org/DataSetQR.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetQR" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetQR" msprop:Generator_UserDSName="DataSetQR">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="QRcode" msprop:Generator_TableClassName="QRcodeDataTable" msprop:Generator_TableVarName="tableQRcode" msprop:Generator_RowChangedName="QRcodeRowChanged" msprop:Generator_TablePropName="QRcode" msprop:Generator_RowDeletingName="QRcodeRowDeleting" msprop:Generator_RowChangingName="QRcodeRowChanging" msprop:Generator_RowEvHandlerName="QRcodeRowChangeEventHandler" msprop:Generator_RowDeletedName="QRcodeRowDeleted" msprop:Generator_RowClassName="QRcodeRow" msprop:Generator_UserTableName="QRcode" msprop:Generator_RowEvArgName="QRcodeRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Id" msdata:AutoIncrementSeed="1" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_UserColumnName="Id" type="xs:int" />
+              <xs:element name="qr_lotno" msprop:Generator_ColumnVarNameInTable="columnqr_lotno" msprop:Generator_ColumnPropNameInRow="qr_lotno" msprop:Generator_ColumnPropNameInTable="qr_lotnoColumn" msprop:Generator_UserColumnName="qr_lotno" type="xs:string" minOccurs="0" />
+              <xs:element name="qr_companyname" msprop:Generator_ColumnVarNameInTable="columnqr_companyname" msprop:Generator_ColumnPropNameInRow="qr_companyname" msprop:Generator_ColumnPropNameInTable="qr_companynameColumn" msprop:Generator_UserColumnName="qr_companyname" type="xs:string" minOccurs="0" />
+              <xs:element name="qr_partno" msprop:Generator_ColumnVarNameInTable="columnqr_partno" msprop:Generator_ColumnPropNameInRow="qr_partno" msprop:Generator_ColumnPropNameInTable="qr_partnoColumn" msprop:Generator_UserColumnName="qr_partno" type="xs:string" minOccurs="0" />
+              <xs:element name="qr_partname" msprop:Generator_ColumnVarNameInTable="columnqr_partname" msprop:Generator_ColumnPropNameInRow="qr_partname" msprop:Generator_ColumnPropNameInTable="qr_partnameColumn" msprop:Generator_UserColumnName="qr_partname" type="xs:string" minOccurs="0" />
+              <xs:element name="qr_manf" msprop:Generator_ColumnVarNameInTable="columnqr_manf" msprop:Generator_ColumnPropNameInRow="qr_manf" msprop:Generator_ColumnPropNameInTable="qr_manfColumn" msprop:Generator_UserColumnName="qr_manf" type="xs:string" minOccurs="0" />
+              <xs:element name="qr_expiry" msprop:Generator_ColumnVarNameInTable="columnqr_expiry" msprop:Generator_ColumnPropNameInRow="qr_expiry" msprop:Generator_ColumnPropNameInTable="qr_expiryColumn" msprop:Generator_UserColumnName="qr_expiry" type="xs:string" minOccurs="0" />
+              <xs:element name="qr_qty" msprop:Generator_ColumnVarNameInTable="columnqr_qty" msprop:Generator_ColumnPropNameInRow="qr_qty" msprop:Generator_ColumnPropNameInTable="qr_qtyColumn" msprop:Generator_UserColumnName="qr_qty" type="xs:string" minOccurs="0" />
+              <xs:element name="qr_pcs" msprop:Generator_ColumnVarNameInTable="columnqr_pcs" msprop:Generator_ColumnPropNameInRow="qr_pcs" msprop:Generator_ColumnPropNameInTable="qr_pcsColumn" msprop:Generator_UserColumnName="qr_pcs" type="xs:string" minOccurs="0" />
+              <xs:element name="qr_materialcode" msprop:Generator_ColumnVarNameInTable="columnqr_materialcode" msprop:Generator_ColumnPropNameInRow="qr_materialcode" msprop:Generator_ColumnPropNameInTable="qr_materialcodeColumn" msprop:Generator_UserColumnName="qr_materialcode" type="xs:string" minOccurs="0" />
+              <xs:element name="qr_image" msprop:Generator_ColumnVarNameInTable="columnqr_image" msprop:Generator_ColumnPropNameInRow="qr_image" msprop:Generator_ColumnPropNameInTable="qr_imageColumn" msprop:Generator_UserColumnName="qr_image" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="qr_m1" msprop:Generator_ColumnVarNameInTable="columnqr_m1" msprop:Generator_ColumnPropNameInRow="qr_m1" msprop:Generator_ColumnPropNameInTable="qr_m1Column" msprop:Generator_UserColumnName="qr_m1" type="xs:string" minOccurs="0" />
+              <xs:element name="qr_m2" msprop:Generator_ColumnVarNameInTable="columnqr_m2" msprop:Generator_ColumnPropNameInRow="qr_m2" msprop:Generator_ColumnPropNameInTable="qr_m2Column" msprop:Generator_UserColumnName="qr_m2" type="xs:string" minOccurs="0" />
+              <xs:element name="qr_m3" msprop:Generator_ColumnVarNameInTable="columnqr_m3" msprop:Generator_ColumnPropNameInRow="qr_m3" msprop:Generator_ColumnPropNameInTable="qr_m3Column" msprop:Generator_UserColumnName="qr_m3" type="xs:string" minOccurs="0" />
+              <xs:element name="qr_m4" msprop:Generator_ColumnVarNameInTable="columnqr_m4" msprop:Generator_ColumnPropNameInRow="qr_m4" msprop:Generator_ColumnPropNameInTable="qr_m4Column" msprop:Generator_UserColumnName="qr_m4" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="QRcodeKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:QRcode" />
+      <xs:field xpath="mstns:Id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

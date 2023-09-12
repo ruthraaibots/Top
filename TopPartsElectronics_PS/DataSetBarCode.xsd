@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetBarCode" targetNamespace="http://tempuri.org/DataSetBarCode.xsd" xmlns:mstns="http://tempuri.org/DataSetBarCode.xsd" xmlns="http://tempuri.org/DataSetBarCode.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetBarCode" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetBarCode" msprop:Generator_UserDSName="DataSetBarCode">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Barcode" msprop:Generator_TableClassName="BarcodeDataTable" msprop:Generator_TableVarName="tableBarcode" msprop:Generator_TablePropName="Barcode" msprop:Generator_RowDeletingName="BarcodeRowDeleting" msprop:Generator_RowChangingName="BarcodeRowChanging" msprop:Generator_RowEvHandlerName="BarcodeRowChangeEventHandler" msprop:Generator_RowDeletedName="BarcodeRowDeleted" msprop:Generator_UserTableName="Barcode" msprop:Generator_RowChangedName="BarcodeRowChanged" msprop:Generator_RowEvArgName="BarcodeRowChangeEvent" msprop:Generator_RowClassName="BarcodeRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Id" msdata:AutoIncrementSeed="1" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_UserColumnName="Id" type="xs:string" />
+              <xs:element name="barcode_companyname" msprop:Generator_ColumnVarNameInTable="columnbarcode_companyname" msprop:Generator_ColumnPropNameInRow="barcode_companyname" msprop:Generator_ColumnPropNameInTable="barcode_companynameColumn" msprop:Generator_UserColumnName="barcode_companyname" type="xs:string" minOccurs="0" />
+              <xs:element name="barcode_partno" msprop:Generator_ColumnVarNameInTable="columnbarcode_partno" msprop:Generator_ColumnPropNameInRow="barcode_partno" msprop:Generator_ColumnPropNameInTable="barcode_partnoColumn" msprop:Generator_UserColumnName="barcode_partno" type="xs:string" minOccurs="0" />
+              <xs:element name="barcode_partname" msprop:Generator_ColumnVarNameInTable="columnbarcode_partname" msprop:Generator_ColumnPropNameInRow="barcode_partname" msprop:Generator_ColumnPropNameInTable="barcode_partnameColumn" msprop:Generator_UserColumnName="barcode_partname" type="xs:string" minOccurs="0" />
+              <xs:element name="barcode_expiry" msprop:Generator_ColumnVarNameInTable="columnbarcode_expiry" msprop:Generator_ColumnPropNameInRow="barcode_expiry" msprop:Generator_ColumnPropNameInTable="barcode_expiryColumn" msprop:Generator_UserColumnName="barcode_expiry" type="xs:string" minOccurs="0" />
+              <xs:element name="barcode_qty" msprop:Generator_ColumnVarNameInTable="columnbarcode_qty" msprop:Generator_ColumnPropNameInRow="barcode_qty" msprop:Generator_ColumnPropNameInTable="barcode_qtyColumn" msprop:Generator_UserColumnName="barcode_qty" type="xs:string" minOccurs="0" />
+              <xs:element name="barcode_pcs" msprop:Generator_ColumnVarNameInTable="columnbarcode_pcs" msprop:Generator_ColumnPropNameInRow="barcode_pcs" msprop:Generator_ColumnPropNameInTable="barcode_pcsColumn" msprop:Generator_UserColumnName="barcode_pcs" type="xs:string" minOccurs="0" />
+              <xs:element name="barcode_lotno" msprop:Generator_ColumnVarNameInTable="columnbarcode_lotno" msprop:Generator_ColumnPropNameInRow="barcode_lotno" msprop:Generator_ColumnPropNameInTable="barcode_lotnoColumn" msprop:Generator_UserColumnName="barcode_lotno" type="xs:string" minOccurs="0" />
+              <xs:element name="barcode_materialcode" msprop:Generator_ColumnVarNameInTable="columnbarcode_materialcode" msprop:Generator_ColumnPropNameInRow="barcode_materialcode" msprop:Generator_ColumnPropNameInTable="barcode_materialcodeColumn" msprop:Generator_UserColumnName="barcode_materialcode" type="xs:string" minOccurs="0" />
+              <xs:element name="barcode_input_1" msprop:Generator_ColumnVarNameInTable="columnbarcode_input_1" msprop:Generator_ColumnPropNameInRow="barcode_input_1" msprop:Generator_ColumnPropNameInTable="barcode_input_1Column" msprop:Generator_UserColumnName="barcode_input_1" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="barcode_input_2" msprop:Generator_ColumnVarNameInTable="columnbarcode_input_2" msprop:Generator_ColumnPropNameInRow="barcode_input_2" msprop:Generator_ColumnPropNameInTable="barcode_input_2Column" msprop:Generator_UserColumnName="barcode_input_2" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="barcode_inp1" msprop:Generator_ColumnVarNameInTable="columnbarcode_inp1" msprop:Generator_ColumnPropNameInRow="barcode_inp1" msprop:Generator_ColumnPropNameInTable="barcode_inp1Column" msprop:Generator_UserColumnName="barcode_inp1" type="xs:string" minOccurs="0" />
+              <xs:element name="barcode_inp2" msprop:Generator_ColumnVarNameInTable="columnbarcode_inp2" msprop:Generator_ColumnPropNameInRow="barcode_inp2" msprop:Generator_ColumnPropNameInTable="barcode_inp2Column" msprop:Generator_UserColumnName="barcode_inp2" type="xs:string" minOccurs="0" />
+              <xs:element name="barcode_m1" msprop:Generator_ColumnVarNameInTable="columnbarcode_m1" msprop:Generator_ColumnPropNameInRow="barcode_m1" msprop:Generator_ColumnPropNameInTable="barcode_m1Column" msprop:Generator_UserColumnName="barcode_m1" type="xs:string" minOccurs="0" />
+              <xs:element name="barcode_m2" msprop:Generator_ColumnVarNameInTable="columnbarcode_m2" msprop:Generator_ColumnPropNameInRow="barcode_m2" msprop:Generator_ColumnPropNameInTable="barcode_m2Column" msprop:Generator_UserColumnName="barcode_m2" type="xs:string" minOccurs="0" />
+              <xs:element name="barcode_m3" msprop:Generator_ColumnVarNameInTable="columnbarcode_m3" msprop:Generator_ColumnPropNameInRow="barcode_m3" msprop:Generator_ColumnPropNameInTable="barcode_m3Column" msprop:Generator_UserColumnName="barcode_m3" type="xs:string" minOccurs="0" />
+              <xs:element name="barcode_m4" msprop:Generator_ColumnVarNameInTable="columnbarcode_m4" msprop:Generator_ColumnPropNameInRow="barcode_m4" msprop:Generator_ColumnPropNameInTable="barcode_m4Column" msprop:Generator_UserColumnName="barcode_m4" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="BarcodeKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Barcode" />
+      <xs:field xpath="mstns:Id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

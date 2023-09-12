@@ -1,0 +1,341 @@
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\TopPartsElectronics_PS.exe.config
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\TopPartsElectronics_PS.exe
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\TopPartsElectronics_PS.pdb
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.Form1.resources
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.Properties.Resources.resources
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.exe
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.pdb
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormLogin.resources
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormUser.resources
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormBOM.resources
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormClient.resources
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormMaterial.resources
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProcess.resources
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProduct.resources
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormMaker.resources
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchClient.resources
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchMaker.resources
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchItem.resources
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchMaterial.resources
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProductionInput.resources
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProductionStatus.resources
+C:\Users\User\Source\Repos\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormShipping.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\TopPartsElectronics_PS.exe.config
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\TopPartsElectronics_PS.exe
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\TopPartsElectronics_PS.pdb
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.Form1.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormBOM.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormClient.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormLogin.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormMaker.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormMaterial.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProcess.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProduct.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProductionInput.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProductionStatus.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchClient.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchItem.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchMaker.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchMaterial.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormShipping.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormUser.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.Properties.Resources.resources
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csproj.GenerateResource.cache
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csproj.CoreCompileInputs.cache
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.exe
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.pdb
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\MySql.Data.dll
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csproj.CopyComplete
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.Permissions.dll
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.Permissions.xml
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Google.Protobuf.dll
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Buffers.dll
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Memory.dll
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\ZstdNet.dll
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Google.Protobuf.pdb
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Google.Protobuf.xml
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\MySql.Data.xml
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Buffers.xml
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Memory.xml
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gurun\Downloads\TopPartsElectronics_PS\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csprojAssemblyReference.cache
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\TopPartsElectronics_PS.exe.config
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\TopPartsElectronics_PS.exe
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\TopPartsElectronics_PS.pdb
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Google.Protobuf.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\itextsharp.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\MySql.Data.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Buffers.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Memory.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.Permissions.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\ZstdNet.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Google.Protobuf.pdb
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Google.Protobuf.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\itextsharp.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\MySql.Data.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Buffers.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Memory.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.Permissions.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.exe.config
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.BarcodePrint.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.Form1.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormBOM.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormClient.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormLogin.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormMaker.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormMaterial.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormPatern1.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormPatern2.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormPatern3.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormPatern4.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProcess.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProduct.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProductionInput.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProductionStatus.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchClient.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchItem.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchMaker.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchMaterial.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormShipping.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormUser.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.printQR.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.Properties.Resources.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csproj.GenerateResource.cache
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\RdlCompile.cache
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\RdlCompile.compiled
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csproj.CoreCompileInputs.cache
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csproj.CopyComplete
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.exe
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.pdb
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.BarcodePrintOne.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\21-06-2022\TEST\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csprojAssemblyReference.cache
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\barcode4.rdlc
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\barcode1.rdlc
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\barcode.rdlc
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\qrcodeTyp5.rdlc
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\qrcode.rdlc
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\TopPartsElectronics_PS.exe.config
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\TopPartsElectronics_PS.exe
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\TopPartsElectronics_PS.pdb
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\AutoMapper.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Google.Protobuf.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\itextsharp.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\MySql.Data.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\PagedList.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Spire.Pdf.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Spire.XLS.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Buffers.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Memory.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.Permissions.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\ZstdNet.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Microsoft.mshtml.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\AutoMapper.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Google.Protobuf.pdb
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Google.Protobuf.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\itextsharp.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\MySql.Data.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\PagedList.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Spire.Pdf.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Spire.XLS.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Buffers.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Memory.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.Permissions.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csprojAssemblyReference.cache
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.BarcodePrint.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.BarcodePrintOne.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.Form1.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormBOM.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormBulkLotNo.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormBulkUpdate.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormClient.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormLogin.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormMaker.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormMaterial.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormPatern1.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormPatern2.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormPatern3.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormPatern4.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProcess.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProduct.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProductionInput.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProductionStatus.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchClient.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchItem.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchMaker.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchMaterial.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormShipping.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSuperLogin.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormUser.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FromPatern1BulkUpt.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FromPatern2BulkUpt.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FromPatern3BulkUpt.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FromPatern4BulkUpt.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.printQR.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.Properties.Resources.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csproj.GenerateResource.cache
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\RdlCompile.cache
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\RdlCompile.compiled
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csproj.CoreCompileInputs.cache
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csproj.CopyComplete
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.exe
+C:\Users\gurun\Documents\ruthra\Ramesh\Source Backup\TopPartsElectronics\22-06-2023\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.pdb
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\barcode4.rdlc
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\barcode1.rdlc
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\barcode.rdlc
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\qrcodeTyp5.rdlc
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\qrcode.rdlc
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\TopPartsElectronics_PS.exe.config
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\TopPartsElectronics_PS.exe
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\TopPartsElectronics_PS.pdb
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\AutoMapper.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Google.Protobuf.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\itextsharp.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\MySql.Data.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\PagedList.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Spire.Pdf.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Spire.XLS.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Buffers.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Memory.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.Permissions.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\ZstdNet.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Microsoft.mshtml.dll
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\AutoMapper.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Google.Protobuf.pdb
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Google.Protobuf.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\itextsharp.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\MySql.Data.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\PagedList.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Spire.Pdf.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\Spire.XLS.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Buffers.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Memory.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.Permissions.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.BarcodePrint.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.BarcodePrintOne.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.Form1.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormBOM.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormBulkLotNo.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormBulkUpdate.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormClient.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormLogin.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormMaker.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormMaterial.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormPatern1.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormPatern2.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormPatern3.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormPatern4.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProcess.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProduct.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProductionInput.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormProductionStatus.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchClient.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchItem.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchMaker.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSearchMaterial.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormShipping.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormSuperLogin.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormUser.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FromPatern1BulkUpt.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FromPatern2BulkUpt.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FromPatern3BulkUpt.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FromPatern4BulkUpt.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.printQR.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.Properties.Resources.resources
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csproj.GenerateResource.cache
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\RdlCompile.cache
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\RdlCompile.compiled
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csproj.CoreCompileInputs.cache
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csproj.CopyComplete
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.exe
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.pdb
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.csprojAssemblyReference.cache
+C:\Users\gurun\Documents\ruthra\Ramesh\TopPartsElectronics_PS\TopPartsElectronics_PS\obj\Debug\TopPartsElectronics_PS.FormLotInformationStatus.resources

@@ -1,0 +1,536 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AA90F047-5D5C-4E50-AB57-D26CBD18C290}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TopPartsElectronics_PS</RootNamespace>
+    <AssemblyName>TopPartsElectronics_PS</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>top logo_2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper, Version=10.0.0.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.10.0.0\lib\net461\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.19.4.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.19.4\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.2.6\lib\net46\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.2.6\lib\net46\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.6\lib\net46\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.Common.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Reporting.WinForms.v11.1.0.0.0\lib\Microsoft.ReportViewer.WinForms.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Reporting.WinForms.v11.1.0.0.0\lib\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.29.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.29\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PagedList, Version=1.17.0.0, Culture=neutral, PublicKeyToken=abbb863e9397c5e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\PagedList.1.17.0.0\lib\net40\PagedList.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.Pdf, Version=8.7.2.0, Culture=neutral, PublicKeyToken=663f351905198cb3, processorArchitecture=MSIL">
+      <HintPath>..\packages\Spire.XLS.12.7.1\lib\net40\Spire.Pdf.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.XLS, Version=12.7.1.0, Culture=neutral, PublicKeyToken=663f351905198cb3, processorArchitecture=MSIL">
+      <HintPath>..\packages\Spire.XLS.12.7.1\lib\net40\Spire.XLS.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Configuration.ConfigurationManager.6.0.0\lib\net461\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Security.AccessControl, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.AccessControl.6.0.0\lib\net461\System.Security.AccessControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Permissions, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Permissions.6.0.0\lib\net461\System.Security.Permissions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal.Windows, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Principal.Windows.5.0.0\lib\net461\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.29\lib\net452\Ubiety.Dns.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="Zen.Barcode.Core, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b5ae55aa76d2d9de, processorArchitecture=MSIL">
+      <HintPath>..\packages\Zen.Barcode.Rendering.Framework.3.1.10729.1\lib\Zen.Barcode.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="ZstdNet, Version=1.4.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.29\lib\net452\ZstdNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BarcodePrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BarcodePrint.Designer.cs">
+      <DependentUpon>BarcodePrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BarcodePrintOne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BarcodePrintOne.Designer.cs">
+      <DependentUpon>BarcodePrintOne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetBarCode.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetBarCode.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetQR.cs">
+      <DependentUpon>DataSetQR.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetQR.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetQR.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetQRcode.cs">
+      <DependentUpon>DataSetQRcode.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetQRcode.Designer.cs">
+      <DependentUpon>DataSetQRcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBOM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBOM.Designer.cs">
+      <DependentUpon>FormBOM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBulkLotNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBulkLotNo.Designer.cs">
+      <DependentUpon>FormBulkLotNo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBulkUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBulkUpdate.Designer.cs">
+      <DependentUpon>FormBulkUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormClient.Designer.cs">
+      <DependentUpon>FormClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLotInformationStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLotInformationStatus.Designer.cs">
+      <DependentUpon>FormLotInformationStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMaker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMaker.Designer.cs">
+      <DependentUpon>FormMaker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMaterial.Designer.cs">
+      <DependentUpon>FormMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPatern1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPatern1.Designer.cs">
+      <DependentUpon>FormPatern1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPatern2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPatern2.Designer.cs">
+      <DependentUpon>FormPatern2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPatern3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPatern3.Designer.cs">
+      <DependentUpon>FormPatern3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPatern4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPatern4.Designer.cs">
+      <DependentUpon>FormPatern4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProcess.Designer.cs">
+      <DependentUpon>FormProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProduct.Designer.cs">
+      <DependentUpon>FormProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProductionInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProductionInput.Designer.cs">
+      <DependentUpon>FormProductionInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProductionStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProductionStatus.Designer.cs">
+      <DependentUpon>FormProductionStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSearchClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSearchClient.Designer.cs">
+      <DependentUpon>FormSearchClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSearchItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSearchItem.Designer.cs">
+      <DependentUpon>FormSearchItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSearchMaker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSearchMaker.Designer.cs">
+      <DependentUpon>FormSearchMaker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSearchMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSearchMaterial.Designer.cs">
+      <DependentUpon>FormSearchMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormShipping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormShipping.Designer.cs">
+      <DependentUpon>FormShipping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSuperLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSuperLogin.Designer.cs">
+      <DependentUpon>FormSuperLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser.Designer.cs">
+      <DependentUpon>FormUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FromPatern1BulkUpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FromPatern1BulkUpt.Designer.cs">
+      <DependentUpon>FromPatern1BulkUpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FromPatern2BulkUpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FromPatern2BulkUpt.Designer.cs">
+      <DependentUpon>FromPatern2BulkUpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FromPatern3BulkUpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FromPatern3BulkUpt.Designer.cs">
+      <DependentUpon>FromPatern3BulkUpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FromPatern4BulkUpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FromPatern4BulkUpt.Designer.cs">
+      <DependentUpon>FromPatern4BulkUpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helper\CommonClass.cs" />
+    <Compile Include="Helper\GeneralModelClass.cs" />
+    <Compile Include="Helper\LocalReportExtensions.cs" />
+    <Compile Include="Helper\MysqlHelper.cs" />
+    <Compile Include="Helper\StackTraceSample.cs" />
+    <Compile Include="printQR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="printQR.Designer.cs">
+      <DependentUpon>printQR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="barcode4.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="barcode1.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="barcode.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BarcodePrint.resx">
+      <DependentUpon>BarcodePrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BarcodePrintOne.resx">
+      <DependentUpon>BarcodePrintOne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBOM.resx">
+      <DependentUpon>FormBOM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBulkLotNo.resx">
+      <DependentUpon>FormBulkLotNo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBulkUpdate.resx">
+      <DependentUpon>FormBulkUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormClient.resx">
+      <DependentUpon>FormClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLotInformationStatus.resx">
+      <DependentUpon>FormLotInformationStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMaker.resx">
+      <DependentUpon>FormMaker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMaterial.resx">
+      <DependentUpon>FormMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPatern1.resx">
+      <DependentUpon>FormPatern1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPatern2.resx">
+      <DependentUpon>FormPatern2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPatern3.resx">
+      <DependentUpon>FormPatern3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPatern4.resx">
+      <DependentUpon>FormPatern4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProcess.resx">
+      <DependentUpon>FormProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProduct.resx">
+      <DependentUpon>FormProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProductionInput.resx">
+      <DependentUpon>FormProductionInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProductionStatus.resx">
+      <DependentUpon>FormProductionStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSearchClient.resx">
+      <DependentUpon>FormSearchClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSearchItem.resx">
+      <DependentUpon>FormSearchItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSearchMaker.resx">
+      <DependentUpon>FormSearchMaker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSearchMaterial.resx">
+      <DependentUpon>FormSearchMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormShipping.resx">
+      <DependentUpon>FormShipping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSuperLogin.resx">
+      <DependentUpon>FormSuperLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser.resx">
+      <DependentUpon>FormUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FromPatern1BulkUpt.resx">
+      <DependentUpon>FromPatern1BulkUpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FromPatern2BulkUpt.resx">
+      <DependentUpon>FromPatern2BulkUpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FromPatern3BulkUpt.resx">
+      <DependentUpon>FromPatern3BulkUpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FromPatern4BulkUpt.resx">
+      <DependentUpon>FromPatern4BulkUpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="printQR.resx">
+      <DependentUpon>printQR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="qrcodeTyp5.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="qrcode.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Include="DataSetBarCode.xsc">
+      <DependentUpon>DataSetBarCode.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetBarCode.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetBarCode.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetBarCode.xss">
+      <DependentUpon>DataSetBarCode.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetQR.xsc">
+      <DependentUpon>DataSetQR.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetQR.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetQR.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetQR.xss">
+      <DependentUpon>DataSetQR.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetQRcode.xsc">
+      <DependentUpon>DataSetQRcode.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetQRcode.xsd" />
+    <None Include="DataSetQRcode.xss">
+      <DependentUpon>DataSetQRcode.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top logo%28green%29.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top logo_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="top logo_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Analyzer Include="..\packages\SonarAnalyzer.CSharp.9.6.0.74858\analyzers\Google.Protobuf.dll" />
+    <Analyzer Include="..\packages\SonarAnalyzer.CSharp.9.6.0.74858\analyzers\SonarAnalyzer.CFG.dll" />
+    <Analyzer Include="..\packages\SonarAnalyzer.CSharp.9.6.0.74858\analyzers\SonarAnalyzer.CSharp.dll" />
+    <Analyzer Include="..\packages\SonarAnalyzer.CSharp.9.6.0.74858\analyzers\SonarAnalyzer.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
