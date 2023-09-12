@@ -744,11 +744,8 @@ namespace TopPartsElectronics_PS
 
                         var get_lotnumber = (from num in list_cmodel
                                              select num.lotnojoin).Distinct();
-                        string gets = get_lotnumber.Count().ToString();
-
                         ///9022022
-                        ///grid row header bind                                             
-
+                        ///grid row header bind      
                         dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.None;
                         dataGridView1.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.None;
                         dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
@@ -772,8 +769,6 @@ namespace TopPartsElectronics_PS
                         dataGridView1.EnableHeadersVisualStyles = false;
                         dataGridView1.RowHeadersDefaultCellStyle.ForeColor = Color.WhiteSmoke;
                         dataGridView1.RowHeadersDefaultCellStyle.BackColor = Color.WhiteSmoke;
-                    
-                   
 
                 }
                 int columun_count_v = 0;
@@ -781,7 +776,6 @@ namespace TopPartsElectronics_PS
                 lotview_list_cmodel_grid.AddRange(list_cmodel);
                 if (list_cmodel.Count > 1)
                 {
-
                     foreach (var item in list_cmodel)
                     {
                         if (list_index != 0)

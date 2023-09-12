@@ -187,7 +187,7 @@
             this.Name = "Form1";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "TOP PARTS MALAYSIA PRODUCTION SYSTEM - Last Updated Date : 07-09-2023 ";
+            this.Text = "TOP PARTS MALAYSIA PRODUCTION SYSTEM - Last Updated Date : : 07-09-2023 ";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
